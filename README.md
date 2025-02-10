@@ -34,4 +34,5 @@ Options:
 Commands:
   help  ENTRY_POINT [--help ] # If configured help account
 ```
-
+### Werner Notes
+  Search for FOO and REPO and change, also look at setup.py, and fill in new values.
